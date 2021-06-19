@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ankitba03848435" target="blank"><img src="https://img.shields.io/twitter/follow/ankitba03848435?logo=twitter&style=for-the-badge" alt="ankitba03848435" /></a> </p> -->
 
-- 🔭 I’m currently working on **on something cool 😉**
+- 🔭 I’m currently working on **something cool 😉**
 
 - 🌱 I’m currently learning **TypeScript**
 
