@@ -1,12 +1,7 @@
-<h1 align="center">Hi there, I'm Ankit Bajpai 👋</h1>
+<h1 align="center">Hi there, I'm Ankit Bajpai  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">I'm a Student and Developer!!</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbajpai1607&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbajpai1607" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitbajpai1607" alt="ankitbajpai1607" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/ankitba03848435" target="blank"><img src="https://img.shields.io/twitter/follow/ankitba03848435?logo=twitter&style=for-the-badge" alt="ankitba03848435" /></a> </p> -->
-
+</br>
 - 🔭 I’m currently working on **something cool 😉**
 
 - 🌱 I’m currently learning **TypeScript**
@@ -17,34 +12,54 @@
 
 - ⚡ Fun fact **I ❤️ 🐶s.**
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</br>
+ 
+## 🛠 Interests/Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankitba03848435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitba03848435" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankitbajpai1607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitbajpai1607" height="30" width="40" /></a>
-<a href="https://medium.com/@ankitbajpai1607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankitbajpai1607" height="30" width="40" /></a>
+ </br>
+ 
+<div align='center'>
+  
+  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  
+</div> 
+</br>
+
+
+
+
+## :construction_worker: Stats So Far 
+</br>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ankitbajpai1607&show_icons=true&count_private=true&theme=radical" width="500"></a>
+</p>
+</br>
+
+## :coffee:  Let's Connect
+ </br>
+
+<p align="center">
+	<a href="https://github.com/ankitbajpai1607">
+   <img src="https://img.icons8.com/nolan/50/github.png"/></a>
+	<a href="https://www.linkedin.com/in/ankitbajpai1607/">
+<img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
+	<a href="https://ankitbajpai.tech/">
+   <img src="https://img.icons8.com/nolan/50/domain.png"/></a>
+	<a href="https://medium.com/@ankitbajpai1607">
+    <img src="https://img.icons8.com/nolan/50/medium-new.png"/></a>
+	
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitbajpai1607&show_icons=true&locale=en&layout=compact" alt="ankitbajpai1607" /></p>
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=ankitbajpai1607&show_icons=true&locale=en" alt="ankitbajpai1607" /></p>
+![Ankit Bajpai](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
 
 
 
-
-
-
-<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbajpai1607&" alt="ankitbajpai1607" /></p> -->
