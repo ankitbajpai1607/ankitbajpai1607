@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 💬 Ask me about **anything related to JavaScript/React/Express/TypeScript/ReactNative**
 
