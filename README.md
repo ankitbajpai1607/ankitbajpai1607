@@ -49,7 +49,7 @@
    <img src="https://img.icons8.com/nolan/50/github.png"/></a>
 	<a href="https://www.linkedin.com/in/ankitbajpai1607/">
 <img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
-	<a href="https://ankitbajpai1607.netlify.app/">
+	<a href="https://ankitbajpai.com/">
    <img src="https://img.icons8.com/nolan/50/domain.png"/></a>
 	<a href="https://ankitbajpai1607.hashnode.dev/">
     <img src="https://img.icons8.com/nolan/50/medium-new.png"/></a>
