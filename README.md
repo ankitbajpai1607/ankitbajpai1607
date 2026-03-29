@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **Langchain**
 
-- 💬 Ask me about **anything related to JavaScript/React/Express/TypeScript/ReactNative**
+- 💬 Ask me about **anything related to JavaScript/React/Express/TypeScript/ReactNative/NEXT.JS**
 
 - 📫 How to reach me **ankitbajpai1607@gmail.com**
 
